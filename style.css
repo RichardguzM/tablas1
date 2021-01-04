@@ -1,0 +1,12 @@
+table {
+    border: red 1px solid;
+}
+td.celdaA {
+    border: blue 2px solid;
+}
+table.tabla3 {
+    color: green;
+}
+thead.tablax {
+    height: 18;
+}
